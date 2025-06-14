@@ -59,9 +59,8 @@ Skrypt `main.py` (lub `ee690924-d173-4128-bc20-595123abe72d.py`) wykorzystuje bi
 1. Uruchom scraper:
 
    ```bat
+   run_main.bat
    ```
-
-run\_main.bat
 
 ````
 2. Po zatrzymaniu (Ctrl+C) lub w dowolnym momencie, podejrzyj zebrane dane:
