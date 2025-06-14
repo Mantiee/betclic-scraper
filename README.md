@@ -62,11 +62,11 @@ Skrypt `main.py` (lub `ee690924-d173-4128-bc20-595123abe72d.py`) wykorzystuje bi
    run_main.bat
    ```
 
-````
 2. Po zatrzymaniu (Ctrl+C) lub w dowolnym momencie, podejrzyj zebrane dane:
+```
 ```bat
 show_db.bat
-````
+```
 
 ## Schemat bazy danych
 
