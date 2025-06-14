@@ -38,11 +38,11 @@ Skrypt `main.py` (lub `ee690924-d173-4128-bc20-595123abe72d.py`) wykorzystuje bi
    cd betclic-live-scraper
 
    ```
-````
+   
 2. Uruchom `installer.bat`, aby zainstalować wszystkie pakiety:
 ```bat
 installer.bat
-````
+```
 
 * Aktualizuje `pip`.
 * Instaluje: `undetected-chromedriver`, `selenium`, `pywin32`.
