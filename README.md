@@ -60,13 +60,15 @@ Skrypt `main.py` (lub `ee690924-d173-4128-bc20-595123abe72d.py`) wykorzystuje bi
 
    ```bat
    run_main.bat
+   
    ```
 
 2. Po zatrzymaniu (Ctrl+C) lub w dowolnym momencie, podejrzyj zebrane dane:
-```
-```bat
-show_db.bat
-```
+
+   ```bat
+   show_db.bat
+
+   ```
 
 ## Schemat bazy danych
 
@@ -97,24 +99,6 @@ Tabela `matches`:
 
 * Zmienna `HIDE_CHROME_WINDOW` w kodzie (`main.py`) umożliwia ukrycie okna przeglądarki.
 * Folder profilu Chrome można czyścić lub zmieniać (`chrome_profile/`).
-
-## Testowanie bazy
-
-W pliku `test_the_db.py` możesz zaimplementować prosty skrypt w Pythonie, np.:
-
-```python
-import sqlite3
-conn = sqlite3.connect('matches.db')
-for row in conn.execute('SELECT * FROM matches ORDER BY id DESC LIMIT 10'):
-    print(row)
-conn.close()
-```
-
-Uruchom go przez:
-
-```bat
-show_db.bat
-```
 
 ## Licencja
 
