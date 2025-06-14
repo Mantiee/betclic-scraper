@@ -34,7 +34,7 @@ Skrypt `main.py` (lub `ee690924-d173-4128-bc20-595123abe72d.py`) wykorzystuje bi
 1. Sklonuj repozytorium:
 
    ```bash
-   git clone [https://github.com/Mantiee/betclic-live-scraper.git](https://github.com/TWOJ_UZYTKOWNIK/betclic-live-scraper.git)
+   git clone https://github.com/Mantiee/betclic-live-scraper.git)
 cd betclic-live-scraper
 
    ```
