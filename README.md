@@ -1,6 +1,6 @@
 # Betclic Live Scraper
 
-Ten projekt umożliwia automatyczne pobieranie danych o meczach na żywo z serwisu Betclic.pl, zapisując je do lokalnej bazy SQLite.
+Automatyczne pobieranie danych o meczach in real time z Betclic.pl, zapisując je do lokalnej bazy SQLite.
 
 ## Spis treści
 
